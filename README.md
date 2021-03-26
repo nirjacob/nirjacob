@@ -7,5 +7,5 @@ I've built a few projects by myself and I'm looking for a role where I can grow 
   <img src="https://github.com/nirjacob/Github-stats/blob/master/generated/overview.svg"/>
   <img src="https://github.com/nirjacob/Github-stats/blob/master/generated/languages.svg">
 </p>
-## <h3 align="center"> :globe_with_meridians: Interact with my personal projects</h3>
-### <h3 align="center"> www.nirjacob.com</h3>
+<h3 align="center"> :globe_with_meridians: Interact with my personal projects</h3>
+<h3 align="center"> www.nirjacob.com</h3>
