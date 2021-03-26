@@ -7,5 +7,5 @@ I've built a few projects by myself and I'm looking for a role where I can grow 
 ### <h3 align="center"> www.nirjacob.com</h3>
 
 <br><br><br>
-![Github Statistics](https://github.com/nirjacob/Github-stats/blob/master/generated/overview.svg)
-![Github Statistics](https://github.com/nirjacob/Github-stats/blob/master/generated/languages.svg)
+<img src="https://github.com/nirjacob/Github-stats/blob/master/generated/overview.svg" style="display: block; margin-left: auto; margin-right: auto; width: 20%;">
+<img src="https://github.com/nirjacob/Github-stats/blob/master/generated/languages.svg" style="display: block; margin-left: auto; margin-right: auto; width: 20%;">
